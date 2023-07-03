@@ -1,0 +1,175 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+<web-app id="WebApp_ID">
+	<display-name>EcommerceProjectUsingServlet</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>
+<!-- <web-app id="WebApp_ID">
+	<display-name>EcommerceProjectUsingServlet</display-name>
+	<servlet>
+		<servlet-name>CancelOrderServlet</servlet-name>
+		<display-name>CancelOrderServlet</display-name>
+		<description></description>
+		<servlet-class>com.Ecommerce.servlet.CancelOrderServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>CancelOrderServlet</servlet-name>
+		<url-pattern>/cancel-order</url-pattern>
+	</servlet-mapping>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>-->
+<!-- <web-app id="WebApp_ID">
+	<display-name>EcommerceProjectUsingServlet</display-name>
+	<servlet>
+		<servlet-name>CheckoutServlet</servlet-name>
+		<display-name>CheckoutServlet</display-name>
+		<description></description>
+		<servlet-class>com.Ecommerce.servlet.CheckoutServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>CheckoutServlet</servlet-name>
+		<url-pattern>/cart-check-out</url-pattern>
+	</servlet-mapping>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>-->
+<!-- <web-app id="WebApp_ID">
+	<display-name>EcommerceProjectUsingServlet</display-name>
+	<servlet>
+		<servlet-name>OrderNowServlet</servlet-name>
+		<display-name>OrderNowServlet</display-name>
+		<description></description>
+		<servlet-class>com.Ecommerce.servlet.OrderNowServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>OrderNowServlet</servlet-name>
+		<url-pattern>/order-now</url-pattern>
+	</servlet-mapping>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>-->
+<!--<web-app id="WebApp_ID">
+	<display-name>EcommerceProjectUsingServlet</display-name>
+	<servlet>
+		<servlet-name>RemoveFromCartServlet</servlet-name>
+		<display-name>RemoveFromCartServlet</display-name>
+		<description></description>
+		<servlet-class>com.Ecommerce.servlet.RemoveFromCartServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>RemoveFromCartServlet</servlet-name>
+		<url-pattern>/remove-From-cart</url-pattern>
+	</servlet-mapping>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>-->
+<!-- <web-app id="WebApp_ID">
+	<display-name>EcommerceProjectUsingServlet</display-name>
+	<servlet>
+		<servlet-name>QuantityIncDecServlet</servlet-name>
+		<display-name>QuantityIncDecServlet</display-name>
+		<description></description>
+		<servlet-class>com.Ecommerce.servlet.QuantityIncDecServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>QuantityIncDecServlet</servlet-name>
+		<url-pattern>/Quantity-inc-dec</url-pattern>
+	</servlet-mapping>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>-->
+<!-- <web-app id="WebApp_ID">
+	<display-name>EcommerceProjectUsingServlet</display-name>
+	<servlet>
+		<servlet-name>AddToCartServlet</servlet-name>
+		<display-name>AddToCartServlet</display-name>
+		<description></description>
+		<servlet-class>com.Ecommerce.servlet.AddToCartServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AddToCartServlet</servlet-name>
+		<url-pattern>/AddToCartServlet</url-pattern>
+	</servlet-mapping>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>-->
+<!-- <web-app id="WebApp_ID">
+	<display-name>EcommerceProjectUsingServlet</display-name>
+	<servlet>
+		<servlet-name>LogoutServlet</servlet-name>
+		<display-name>LogoutServlet</display-name>
+		<description></description>
+		<servlet-class>com.Ecommerce.servlet.LogoutServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>LogoutServlet</servlet-name>
+		<url-pattern>/LogoutServlet</url-pattern>
+	</servlet-mapping>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>-->
+
+<!--<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>LoginServlet</servlet-name>
+  	<display-name>LoginServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.Ecommerce.servlet.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>LoginServlet</servlet-name>
+  	<url-pattern>/user-login</url-pattern>
+  </servlet-mapping>
+</web-app>-->
